@@ -1,0 +1,9 @@
+tartuffe.me/vote-log
+4
+jsYeuA4qDG8zH/Ng2U7smsbI5i3d+GkvKfJc+t43VoU=
+index 223
+time 1793805680
+registry 1 0 0x128e74cf6f8b2a56a6eeadb0426b35b3ad48f77e73e0b6103f40d89f48a2d221
+mirror b53c2333071ae463d9f386593acb4a618d437d83:222
+
+— tartuffe.me/vote-log BY1fIY7evql2dow8UYnTFLo+FzPjsd6azd+syGzxyzCdUS50Fd3QQkjUB2R8jYImRxFeXx85BMyQ4l/W8F5ZO4bOvww=
